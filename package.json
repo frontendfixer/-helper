@@ -1,0 +1,33 @@
+{
+  "name": "helper",
+  "version": "0.2.0",
+  "private": true,
+  "description": "A collection of simple helper functions for javascript and typescript",
+  "author": {
+    "name": "Lakshmikanta Patra",
+    "email": "frontendfixer@gmail.com",
+    "url": "https://frontendfixer.github.io/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frontendfixer/-helper.git"
+  },
+  "homepage": "https://github.com/frontendfixer/-helper#readme",
+  "type": "module",
+  "keywords": [
+    "ts",
+    "javascript and typescript",
+    "utility",
+    "utils",
+    "helpers",
+    "helper"
+  ],
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "date-fns": "^4.1.0"
+  }
+}

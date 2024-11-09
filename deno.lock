@@ -1,0 +1,23 @@
+{
+  "version": "4",
+  "specifiers": {
+    "npm:crypto@^1.0.1": "1.0.1",
+    "npm:date-fns@^4.1.0": "4.1.0"
+  },
+  "npm": {
+    "crypto@1.0.1": {
+      "integrity": "sha512-VxBKmeNcqQdiUQUW2Tzq0t377b54N2bMtXO/qiLa+6eRRmmC4qT3D4OnTGoT/U6O9aklQ/jTwbOtRMTTY8G0Ig=="
+    },
+    "date-fns@4.1.0": {
+      "integrity": "sha512-Ukq0owbQXxa/U3EGtsdVBkR1w7KOQ5gIBqdH2hkvknzZPYvBxb/aa6E8L7tmjFtkwZBu3UXBbjIgPo/Ez4xaNg=="
+    }
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:crypto@^1.0.1",
+        "npm:date-fns@^4.1.0"
+      ]
+    }
+  }
+}
