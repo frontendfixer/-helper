@@ -21,7 +21,7 @@ npm install date-fns
 # or
 pnpm add date-fns
  # or
-deno install
+deno install npm:date-fns
 ```
 
 2. Copy the helper functions file into your project:
