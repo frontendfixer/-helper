@@ -1,6 +1,6 @@
 {
   "name": "@fixer/helper",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "A collection of simple helper functions for javascript and typescript",
   "license": "MIT",
   "include": ["main.ts, README.md"],
